@@ -1,0 +1,83 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: simple
+locale: es
+
+# Las imágenes de productos se suben y se guardan en images/pulseras.
+media_folder: images/pulseras
+public_folder: images/pulseras
+
+collections:
+  - name: productos
+    label: Productos
+    label_singular: Producto
+    files:
+      - name: catalogo
+        label: Catálogo
+        file: js/config/products.json
+        description: Catálogo completo del sitio. Las categorías y los productos se guardan en js/config/products.json.
+        fields:
+          - name: CATEGORIES
+            label: Categorías
+            label_singular: Categoría
+            widget: list
+            collapsed: true
+            summary: '{{fields.label_es}} ({{fields.slug}})'
+            fields:
+              - { name: slug, label: Slug, widget: string }
+              - { name: label_es, label: Nombre (ES), widget: string }
+              - { name: label_en, label: Nombre (EN), widget: string }
+              - { name: tagline_es, label: Descripción (ES), widget: text }
+              - { name: tagline_en, label: Descripción (EN), widget: text }
+              - name: banner
+                label: Banner
+                widget: image
+                media_folder: /images
+                public_folder: images
+              - name: subcats_es
+                label: Subcategorías (ES)
+                widget: list
+              - name: subcats_en
+                label: Subcategorías (EN)
+                widget: list
+
+          - name: PRODUCTS
+            label: Productos
+            label_singular: Producto
+            widget: list
+            collapsed: true
+            summary: '{{fields.id}} — {{fields.name}}'
+            fields:
+              - { name: id, label: ID, widget: string, hint: 'Identificador único, por ejemplo pulseras-42' }
+              - name: category
+                label: Categoría
+                widget: select
+                options:
+                  - anillos
+                  - aretes
+                  - cadenas
+                  - collares
+                  - pulseras
+                  - relicarios
+                  - personalizados
+                  - hombres
+                  - mascotas
+              - { name: subcategory_es, label: Subcategoría (ES), widget: string }
+              - { name: subcategory_en, label: Subcategoría (EN), widget: string }
+              - { name: name, label: Nombre (ES), widget: string }
+              - { name: name_en, label: Nombre (EN), widget: string }
+              - name: image
+                label: Imagen
+                widget: image
+                media_folder: /images/pulseras
+                public_folder: images/pulseras
+              - { name: material_es, label: Material (ES), widget: string }
+              - { name: material_en, label: Material (EN), widget: string }
+              - { name: price, label: Precio, widget: number, value_type: int, min: 0 }
+              - { name: weeks, label: Semanas de entrega, widget: number, value_type: int, min: 0 }
+              - { name: dimensions_es, label: Dimensiones (ES), widget: string }
+              - { name: dimensions_en, label: Dimensiones (EN), widget: string }
+              - { name: isNew, label: Nuevo, widget: boolean, default: false }
+              - { name: isLimited, label: Edición limitada, widget: boolean, default: false }
