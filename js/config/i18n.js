@@ -97,6 +97,7 @@ export const STRINGS = {
     footer_link_terminos: 'Términos y condiciones',
     footer_copyright: '© 2026 Creativas Joyería Artesanal. Todos los derechos reservados.',
     footer_horario: 'Atención de lunes a sábado',
+    footer_link_admin: 'Acceso administrador',
 
     a11y_fab_aria: 'Abrir opciones de accesibilidad',
     a11y_title: 'Accesibilidad',
@@ -213,6 +214,7 @@ export const STRINGS = {
     footer_link_terminos: 'Terms & conditions',
     footer_copyright: '© 2026 Creativas Jewelry. All rights reserved.',
     footer_horario: 'Open Monday to Saturday',
+    footer_link_admin: 'Admin access',
 
     a11y_fab_aria: 'Open accessibility options',
     a11y_title: 'Accessibility',

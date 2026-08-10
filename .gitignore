@@ -26,3 +26,6 @@ yarn-error.log*
 
 # Documentación interna (no publicar en el repo)
 docs/
+
+# Local Netlify folder
+.netlify
