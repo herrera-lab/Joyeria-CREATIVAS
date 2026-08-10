@@ -13,6 +13,7 @@
     <link rel="preload" as="image" href="./images/LogoPrincipal.webp" />
     <link rel="preload" as="image" href="./images/LogoCreativas.png" />
     <link rel="stylesheet" href="./css/style.css" />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <svg style="display: none" aria-hidden="true">
@@ -291,5 +292,38 @@
     <div class="toast" id="toast"></div>
 
     <script type="module" src="./js/main.js"></script>
+
+    <script>
+      // Los correos de Netlify Identity (invitación, confirmación, recuperación)
+      // devuelven al usuario a la raíz del sitio con el token en la URL. El panel
+      // vive en /admin/, así que lo reenviamos allí conservando el token intacto.
+      (function () {
+        var TOKENS = [
+          'invite_token',
+          'confirmation_token',
+          'recovery_token',
+          'email_change_token',
+          'access_token',
+          'error_description',
+        ];
+
+        function hasToken(fragment) {
+          if (!fragment) return false;
+          return TOKENS.some(function (name) {
+            return fragment.indexOf(name + '=') !== -1;
+          });
+        }
+
+        var hash = window.location.hash.replace(/^#\/?/, '');
+        var query = window.location.search.replace(/^\?/, '');
+
+        // Algunas plantillas de correo entregan el token como query string:
+        // en ese caso lo convertimos al formato de hash que espera el widget.
+        var fragment = hasToken(hash) ? hash : hasToken(query) ? query : null;
+        if (!fragment) return;
+
+        window.location.replace('/admin/#' + fragment);
+      })();
+    </script>
   </body>
 </html>
