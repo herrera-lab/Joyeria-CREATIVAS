@@ -15,6 +15,8 @@ collections:
     label_singular: Producto
     folder: data/productos
     create: true
+    extension: json
+    format: json
     slug: '{{id}}'
     sortable_fields: ['id', 'name', 'category', 'price']
     fields:
@@ -54,6 +56,8 @@ collections:
     label_singular: Categoría
     folder: data/categorias
     create: true
+    extension: json
+    format: json
     slug: '{{slug}}'
     fields:
       - { name: slug, label: Slug, widget: string, hint: 'Identificador sin espacios, por ejemplo pulseras' }
