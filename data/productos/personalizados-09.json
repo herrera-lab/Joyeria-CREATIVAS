@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-09",
+    "category":  "personalizados",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Llavero Frase Personalizado",
+    "name_en":  "Custom Message Keychain",
+    "image":  "images/personalizados/9.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  7500,
+    "weeks":  1,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-02",
+    "category":  "hombres",
+    "subcategory_es":  "Pulseras",
+    "subcategory_en":  "Bracelets",
+    "name":  "Llavero Frase para Papá",
+    "name_en":  "\u0027Dad\u0027 Message Keychain",
+    "image":  "images/hombres/2 (2).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  9500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

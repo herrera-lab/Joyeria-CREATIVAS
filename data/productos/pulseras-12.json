@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-12",
+    "category":  "pulseras",
+    "subcategory_es":  "Ajustables",
+    "subcategory_en":  "Adjustable",
+    "name":  "Pulsera Cuarzo Rosa con Hoja Dorada",
+    "name_en":  "Rose Quartz Bracelet with Gold Leaf",
+    "image":  "images/pulseras/12.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  9500,
+    "weeks":  4,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

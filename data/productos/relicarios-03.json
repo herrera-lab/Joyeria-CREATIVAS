@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-03",
+    "category":  "relicarios",
+    "subcategory_es":  "Para fotos",
+    "subcategory_en":  "Photo",
+    "name":  "Relicario Corazón Portaretrato",
+    "name_en":  "Heart Reliquary Photo Locket",
+    "image":  "images/relicarios/03.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  14500,
+    "weeks":  3,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "cadenas-10",
+    "category":  "cadenas",
+    "subcategory_es":  "Finas",
+    "subcategory_en":  "Fine",
+    "name":  "Cadena Cruz y Letra",
+    "name_en":  "Cross \u0026 Initial Chain",
+    "image":  "images/cadenas/10 (1).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  22000,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 40 a 55 cm",
+    "dimensions_en":  "Approximate length 40 to 55 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-08",
+    "category":  "relicarios",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Collar Relicario Corazón Dorado",
+    "name_en":  "Gold Heart Locket Necklace",
+    "image":  "images/relicarios/08.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  7500,
+    "weeks":  4,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

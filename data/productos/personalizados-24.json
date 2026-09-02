@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-24",
+    "category":  "personalizados",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Collar Mascota Conmemorativo",
+    "name_en":  "Pet Memorial Necklace",
+    "image":  "images/personalizados/24.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  6500,
+    "weeks":  4,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

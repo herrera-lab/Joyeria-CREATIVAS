@@ -1,0 +1,18 @@
+{
+    "slug":  "anillos",
+    "label_es":  "Anillos",
+    "label_en":  "Rings",
+    "tagline_es":  "El gesto que se queda: cada anillo está elaborado a mano con alambre hipoalergénico de alta calidad, en el material y la talla que elijas, y complementado con cristales, piedras y perlas cuidadosamente seleccionados para ofrecer belleza, comodidad y durabilidad.",
+    "tagline_en":  "The gesture that stays: each ring is handcrafted with high-quality hypoallergenic wire, in the material and size of your choice, and adorned with carefully selected crystals, stones, and pearls to offer beauty, comfort, and lasting durability.",
+    "banner":  "images/anillos/Logo (3).webp",
+    "subcats_es":  [
+                       "Diario",
+                       "Compromiso",
+                       "Ajustables"
+                   ],
+    "subcats_en":  [
+                       "Everyday",
+                       "Engagement",
+                       "Adjustable"
+                   ]
+}

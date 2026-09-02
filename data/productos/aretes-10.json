@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-10",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Arete Abanico Perlas",
+    "name_en":  "Pearl Fan Earring",
+    "image":  "images/aretes/10.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  10500,
+    "weeks":  2,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

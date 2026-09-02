@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-04",
+    "category":  "pulseras",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Pulsera Dorada con Trébol",
+    "name_en":  "Gold Bracelet with Clover Charm",
+    "image":  "images/pulseras/4.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  6000,
+    "weeks":  4,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

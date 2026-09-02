@@ -1,0 +1,18 @@
+{
+    "slug":  "mascotas",
+    "label_es":  "Mascotas",
+    "label_en":  "Pets",
+    "tagline_es":  "Para que tu compañera o compañero también tenga su detalle: nuestras placas para mascotas están elaboradas en acero inoxidable y grabadas con láser, ofreciendo un acabado resistente y duradero, perfecto para acompañarlos en cada aventura.",
+    "tagline_en":  "So your companion can have their own special detail too: our pet tags are crafted from stainless steel and laser-engraved, offering a durable and resistant finish, perfect for accompanying them on every adventure.",
+    "banner":  "images/mascotas/Logo (2).webp",
+    "subcats_es":  [
+                       "Placas",
+                       "Collares",
+                       "Dijes"
+                   ],
+    "subcats_en":  [
+                       "Tags",
+                       "Collars",
+                       "Charms"
+                   ]
+}

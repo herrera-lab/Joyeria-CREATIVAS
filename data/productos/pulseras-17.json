@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-17",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Pulsera Rosa con Dije Llave Dorada",
+    "name_en":  "Pink Bracelet with Gold Key Charm",
+    "image":  "images/pulseras/17.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  5500,
+    "weeks":  1,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

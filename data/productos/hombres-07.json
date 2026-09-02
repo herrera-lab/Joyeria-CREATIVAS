@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-07",
+    "category":  "hombres",
+    "subcategory_es":  "Cadenas",
+    "subcategory_en":  "Chains",
+    "name":  "Llavero Moto Pareja",
+    "name_en":  "Couple\u0027s Motorcycle Keychain",
+    "image":  "images/hombres/7 (2).webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  7500,
+    "weeks":  3,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

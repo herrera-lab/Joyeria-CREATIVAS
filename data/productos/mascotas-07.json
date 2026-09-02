@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-07",
+    "category":  "mascotas",
+    "subcategory_es":  "Placas",
+    "subcategory_en":  "Tags",
+    "name":  "Placa Redonda Personalizada",
+    "name_en":  "Custom Round Tag",
+    "image":  "images/mascotas/7 (1).webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  4000,
+    "weeks":  3,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

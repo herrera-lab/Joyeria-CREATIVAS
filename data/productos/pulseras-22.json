@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-22",
+    "category":  "pulseras",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Pulsera Piedra Jaspe con Corazón Calado",
+    "name_en":  "Jasper Stone Bracelet with Cutout Heart",
+    "image":  "images/pulseras/22.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  7000,
+    "weeks":  2,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

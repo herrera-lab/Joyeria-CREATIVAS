@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-21",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Girasol Dorado",
+    "name_en":  "Gold Sunflower Earring",
+    "image":  "images/aretes/21.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  6500,
+    "weeks":  1,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

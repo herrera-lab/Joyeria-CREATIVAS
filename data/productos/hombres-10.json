@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-10",
+    "category":  "hombres",
+    "subcategory_es":  "Cadenas",
+    "subcategory_en":  "Chains",
+    "name":  "Pulsera Cuero Frase",
+    "name_en":  "Leather Message Bracelet",
+    "image":  "images/hombres/10 (2).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

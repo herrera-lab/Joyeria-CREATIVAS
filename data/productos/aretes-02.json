@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-02",
+    "category":  "aretes",
+    "subcategory_es":  "Argollas",
+    "subcategory_en":  "Hoops",
+    "name":  "Arete Gota Roja",
+    "name_en":  "Red Teardrop Earring",
+    "image":  "images/aretes/2.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  2500,
+    "weeks":  2,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

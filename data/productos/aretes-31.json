@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-31",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Arete Cascada Perlas",
+    "name_en":  "Pearl Cascade Earring",
+    "image":  "images/aretes/31.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  5500,
+    "weeks":  3,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

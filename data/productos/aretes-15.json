@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-15",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Perla Gota",
+    "name_en":  "Pearl Teardrop Earring",
+    "image":  "images/aretes/15.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  5000,
+    "weeks":  3,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

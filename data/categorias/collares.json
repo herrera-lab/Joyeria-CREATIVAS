@@ -1,0 +1,18 @@
+{
+    "slug":  "collares",
+    "label_es":  "Set de Collares",
+    "label_en":  "Necklaces Set",
+    "tagline_es":  "La pieza que abre el escote y cierra el look: nuestros collares presentan diseños elaborados con materiales de alta calidad, combinando piedras naturales, perlas, cristales y detalles cuidadosamente seleccionados que realzan la belleza de cada pieza.",
+    "tagline_en":  "The piece that frames the neckline and completes the look: our necklaces feature designs crafted with high-quality materials, combining natural stones, pearls, crystals, and carefully selected details that enhance the beauty of every piece.",
+    "banner":  "images/collares/Logo (1).webp",
+    "subcats_es":  [
+                       "Diario",
+                       "Choker",
+                       "Layering"
+                   ],
+    "subcats_en":  [
+                       "Everyday",
+                       "Choker",
+                       "Layering"
+                   ]
+}

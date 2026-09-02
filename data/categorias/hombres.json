@@ -1,0 +1,18 @@
+{
+    "slug":  "hombres",
+    "label_es":  "Hombres",
+    "label_en":  "Men",
+    "tagline_es":  "Diseños pensados para el día a día, sin perder el detalle: nuestros accesorios para hombre están elaborados con materiales de alta calidad, como el acero inoxidable, ofreciendo resistencia, durabilidad y un estilo que perdura.",
+    "tagline_en":  "Designed for everyday wear, without losing the details: our men’s accessories are crafted with high-quality materials, such as stainless steel, offering strength, durability, and timeless style.",
+    "banner":  "images/hombres/Logo (2).webp",
+    "subcats_es":  [
+                       "Cadenas",
+                       "Pulseras",
+                       "Anillos"
+                   ],
+    "subcats_en":  [
+                       "Chains",
+                       "Bracelets",
+                       "Rings"
+                   ]
+}

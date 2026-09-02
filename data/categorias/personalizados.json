@@ -1,0 +1,18 @@
+{
+    "slug":  "personalizados",
+    "label_es":  "Personalizados",
+    "label_en":  "Custom",
+    "tagline_es":  "Con tu nombre, tu inicial o tu propio grabado: nuestros accesorios personalizados están elaborados con materiales de alta calidad, como el acero inoxidable, y grabados cuidadosamente con láser para crear piezas únicas, diseñadas especialmente al gusto de cada cliente.",
+    "tagline_en":  "With your name, your initial, or your own engraving: our personalized accessories are crafted with high-quality materials, such as stainless steel, and carefully laser-engraved to create unique pieces designed especially to reflect each customer’s style.",
+    "banner":  "images/personalizados/Logo.webp",
+    "subcats_es":  [
+                       "Iniciales",
+                       "Nombres",
+                       "Grabados"
+                   ],
+    "subcats_en":  [
+                       "Initials",
+                       "Names",
+                       "Engraved"
+                   ]
+}

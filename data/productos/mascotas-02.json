@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-02",
+    "category":  "mascotas",
+    "subcategory_es":  "Collares",
+    "subcategory_en":  "Collars",
+    "name":  "Placa Hueso Huellitas Personalizada",
+    "name_en":  "Custom Paw Print Bone Tag",
+    "image":  "images/mascotas/2 (1).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  5000,
+    "weeks":  2,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

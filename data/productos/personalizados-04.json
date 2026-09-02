@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-04",
+    "category":  "personalizados",
+    "subcategory_es":  "Iniciales",
+    "subcategory_en":  "Initials",
+    "name":  "Llavero Nombre Personalizado",
+    "name_en":  "Custom Name Keychain",
+    "image":  "images/personalizados/4.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  7500,
+    "weeks":  4,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

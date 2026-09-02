@@ -1,0 +1,18 @@
+{
+    "slug":  "relicarios",
+    "label_es":  "Relicarios",
+    "label_en":  "Lockets",
+    "tagline_es":  "Un espacio pequeño para guardar lo que más querés: convierte tus recuerdos en un tesoro para siempre. Cada relicario, elaborado en acero inoxidable, se personaliza con tus fotografías y detalles favoritos para crear una pieza única, íntima y llena de significado.",
+    "tagline_en":  "A little space to keep what you love most: turn your memories into a treasure to keep forever. Each locket, crafted from stainless steel, is personalized with your favorite photographs and details, creating a unique, intimate piece filled with meaning.",
+    "banner":  "images/relicarios/Logo.webp",
+    "subcats_es":  [
+                       "Clásicos",
+                       "Grabados",
+                       "Para fotos"
+                   ],
+    "subcats_en":  [
+                       "Classic",
+                       "Engraved",
+                       "Photo"
+                   ]
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-26",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Pulsera Cadena Plateada con Corazón",
+    "name_en":  "Silver Chain Bracelet with Heart Charm",
+    "image":  "images/pulseras/26.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  10500,
+    "weeks":  2,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

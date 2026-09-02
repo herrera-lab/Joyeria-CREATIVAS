@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-32",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Pulsera Placa Frase",
+    "name_en":  "Message Tag Bracelet",
+    "image":  "images/personalizados/32.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  3800,
+    "weeks":  4,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

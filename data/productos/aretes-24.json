@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-24",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Racimo Cristal",
+    "name_en":  "Crystal Cluster Earring",
+    "image":  "images/aretes/24.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  4500,
+    "weeks":  4,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

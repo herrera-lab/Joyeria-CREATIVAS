@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-13",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Aretes con Piedra",
+    "name_en":  "Earrings with Stone",
+    "image":  "images/aretes/13.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  2000,
+    "weeks":  1,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

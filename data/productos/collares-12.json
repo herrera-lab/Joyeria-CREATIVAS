@@ -1,0 +1,17 @@
+{
+    "id":  "collares-12",
+    "category":  "collares",
+    "subcategory_es":  "Layering",
+    "subcategory_en":  "Layering",
+    "name":  "Collar Perlas Doble",
+    "name_en":  "Double Pearl Necklace",
+    "image":  "images/collares/12.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  19000,
+    "weeks":  4,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

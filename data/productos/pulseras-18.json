@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-18",
+    "category":  "pulseras",
+    "subcategory_es":  "Ajustables",
+    "subcategory_en":  "Adjustable",
+    "name":  "Pulsera Cadena Dorada con Piedra Luna",
+    "name_en":  "Gold Chain Bracelet with Moonstone Charm",
+    "image":  "images/pulseras/18.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6000,
+    "weeks":  2,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

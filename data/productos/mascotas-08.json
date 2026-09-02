@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-08",
+    "category":  "mascotas",
+    "subcategory_es":  "Collares",
+    "subcategory_en":  "Collars",
+    "name":  "Placa Hueso Retrato Personalizado",
+    "name_en":  "Custom Photo Bone Tag",
+    "image":  "images/mascotas/8 (1).webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  5000,
+    "weeks":  4,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

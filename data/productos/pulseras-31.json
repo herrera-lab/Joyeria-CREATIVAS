@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-31",
+    "category":  "pulseras",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Pulsera Tejida Azul Marino con Dije Dorado",
+    "name_en":  "Navy Woven Bracelet with Gold Charm",
+    "image":  "images/pulseras/31.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  8500,
+    "weeks":  3,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

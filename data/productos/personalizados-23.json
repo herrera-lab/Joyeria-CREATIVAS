@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-23",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Pulsera Frase con Nombre",
+    "name_en":  "Message Bracelet with Name",
+    "image":  "images/personalizados/23.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  3500,
+    "weeks":  3,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

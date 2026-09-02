@@ -1,0 +1,18 @@
+{
+    "slug":  "cadenas",
+    "label_es":  "Cadenas",
+    "label_en":  "Chains",
+    "tagline_es":  "La base perfecta para lucir sola o acompañar tu dije favorito: descubre nuestras cadenas elaboradas en acero inoxidable de alta calidad, diseñadas para acompañarte con estilo, resistencia y un brillo duradero.",
+    "tagline_en":  "The perfect foundation to wear on its own or pair with your favorite charm: discover our chains crafted from high-quality stainless steel, designed to accompany you with style, durability, and a lasting shine.",
+    "banner":  "images/cadenas/Logo (2).webp",
+    "subcats_es":  [
+                       "Finas",
+                       "Gruesas",
+                       "Eslabón cubano"
+                   ],
+    "subcats_en":  [
+                       "Fine",
+                       "Chunky",
+                       "Cuban link"
+                   ]
+}

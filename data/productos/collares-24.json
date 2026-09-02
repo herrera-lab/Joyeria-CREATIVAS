@@ -1,0 +1,17 @@
+{
+    "id":  "collares-24",
+    "category":  "collares",
+    "subcategory_es":  "Layering",
+    "subcategory_en":  "Layering",
+    "name":  "Collar Perlas Estrella de Mar",
+    "name_en":  "Pearl Starfish Necklace",
+    "image":  "images/collares/24.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  19500,
+    "weeks":  4,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

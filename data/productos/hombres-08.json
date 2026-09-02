@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-08",
+    "category":  "hombres",
+    "subcategory_es":  "Pulseras",
+    "subcategory_en":  "Bracelets",
+    "name":  "Pulsera Cruz Negra",
+    "name_en":  "Black Cross Bracelet",
+    "image":  "images/hombres/8 (2).webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  5000,
+    "weeks":  4,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

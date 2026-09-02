@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-17",
+    "category":  "aretes",
+    "subcategory_es":  "Argollas",
+    "subcategory_en":  "Hoops",
+    "name":  "Arete Espiral Dorado",
+    "name_en":  "Gold Spiral Earring",
+    "image":  "images/aretes/17.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  4800,
+    "weeks":  1,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

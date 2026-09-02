@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-12",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Doble Perla",
+    "name_en":  "Double Pearl Earring",
+    "image":  "images/aretes/12.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  5000,
+    "weeks":  4,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

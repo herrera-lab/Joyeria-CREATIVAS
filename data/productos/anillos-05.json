@@ -1,0 +1,17 @@
+{
+    "id":  "anillos-05",
+    "category":  "anillos",
+    "subcategory_es":  "Compromiso",
+    "subcategory_en":  "Engagement",
+    "name":  "Anillos Alambre Perlas",
+    "name_en":  "Wire \u0026 Pearl Rings",
+    "image":  "images/anillos/5.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  11500,
+    "weeks":  1,
+    "dimensions_es":  "Ajustable / tallas 5 a 9 (según modelo)",
+    "dimensions_en":  "Adjustable / sizes 5 to 9 (depending on model)",
+    "isNew":  false,
+    "isLimited":  false
+}

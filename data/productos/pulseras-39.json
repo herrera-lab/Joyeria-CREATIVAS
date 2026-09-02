@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-39",
+    "category":  "pulseras",
+    "subcategory_es":  "Ajustables",
+    "subcategory_en":  "Adjustable",
+    "name":  "Pulsera Azul con Perlas y Corazón",
+    "name_en":  "Blue Bead Bracelet with Pearls and Heart",
+    "image":  "images/pulseras/38.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  14500,
+    "weeks":  3,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-09",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Aro Cristal Negro",
+    "name_en":  "Black Crystal Hoop Earring",
+    "image":  "images/aretes/9.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  4800,
+    "weeks":  1,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

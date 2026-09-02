@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-04",
+    "category":  "hombres",
+    "subcategory_es":  "Cadenas",
+    "subcategory_en":  "Chains",
+    "name":  "Pulsera Cuero Personalizada",
+    "name_en":  "Custom Leather Bracelet",
+    "image":  "images/hombres/4 (2).webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  12000,
+    "weeks":  4,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

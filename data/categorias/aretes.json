@@ -1,0 +1,18 @@
+{
+    "slug":  "aretes",
+    "label_es":  "Aretes",
+    "label_en":  "Earrings",
+    "tagline_es":  "De los que se sienten livianos y se ven en cada foto: nuestros aretes están elaborados con materiales de alta calidad, incluyendo alambre hipoalergénico y, en algunos diseños, acero inoxidable, ofreciendo un acabado elegante, resistente y cómodo para cada ocasión.",
+    "tagline_en":  "The ones that feel weightless and shine in every photo: our earrings are crafted with high-quality materials, including hypoallergenic wire and, in select designs, stainless steel, offering an elegant, durable, and comfortable finish for every occasion.",
+    "banner":  "images/aretes/Logo (2).webp",
+    "subcats_es":  [
+                       "Diario",
+                       "Argollas",
+                       "Colgantes"
+                   ],
+    "subcats_en":  [
+                       "Everyday",
+                       "Hoops",
+                       "Drop"
+                   ]
+}

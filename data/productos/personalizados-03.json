@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-03",
+    "category":  "personalizados",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Collar Primera Comunión Personalizado",
+    "name_en":  "Custom First Communion Necklace",
+    "image":  "images/personalizados/3.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  6500,
+    "weeks":  3,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

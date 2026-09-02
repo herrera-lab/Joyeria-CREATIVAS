@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-20",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Pulsera Cristal Azul con Árbol de la Vida",
+    "name_en":  "Blue Crystal Bracelet with Tree of Life Charm",
+    "image":  "images/pulseras/20.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  5500,
+    "weeks":  4,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

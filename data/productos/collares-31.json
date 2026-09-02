@@ -1,0 +1,17 @@
+{
+    "id":  "collares-31",
+    "category":  "collares",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Collar Perlas Verdes",
+    "name_en":  "Green Pearls Necklace",
+    "image":  "images/collares/31.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  12000,
+    "weeks":  3,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

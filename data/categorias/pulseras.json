@@ -1,0 +1,18 @@
+{
+    "slug":  "pulseras",
+    "label_es":  "Pulseras",
+    "label_en":  "Bracelets",
+    "tagline_es":  "Se acumulan en la muñeca como pequeños recuerdos: cada pulsera está elaborada con perlas naturales de alta calidad, como perla nácar y perla cultivada, combinadas con cristales y piedras naturales cuidadosamente seleccionadas para crear accesorios finos, duraderos y llenos de elegancia.",
+    "tagline_en":  "They gather around your wrist like little memories: each bracelet is crafted with high-quality natural pearls, including mother-of-pearl and cultured pearls, combined with carefully selected crystals and natural stones to create delicate, durable, and effortlessly elegant pieces.",
+    "banner":  "images/pulseras/Logo.webp",
+    "subcats_es":  [
+                       "Diario",
+                       "Dijes",
+                       "Ajustables"
+                   ],
+    "subcats_en":  [
+                       "Everyday",
+                       "Charms",
+                       "Adjustable"
+                   ]
+}

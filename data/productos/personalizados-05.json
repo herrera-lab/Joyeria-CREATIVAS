@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-05",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Collar Corazón con Nombre",
+    "name_en":  "Heart Necklace with Name",
+    "image":  "images/personalizados/5.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  6500,
+    "weeks":  1,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

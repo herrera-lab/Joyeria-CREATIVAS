@@ -1,0 +1,17 @@
+{
+    "id":  "collares-35",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Rojo Flotante",
+    "name_en":  "Floating Red Necklace",
+    "image":  "images/collares/35.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  12000,
+    "weeks":  3,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

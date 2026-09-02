@@ -1,0 +1,17 @@
+{
+    "id":  "collares-26",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Cristal Multicolor",
+    "name_en":  "Multicolor Crystal Necklace",
+    "image":  "images/collares/26.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  19800,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

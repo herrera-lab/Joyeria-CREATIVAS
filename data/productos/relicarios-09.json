@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-09",
+    "category":  "relicarios",
+    "subcategory_es":  "Para fotos",
+    "subcategory_en":  "Photo",
+    "name":  "Llavero Relicario Corazón con Frase",
+    "name_en":  "Heart Locket Keychain with Phrase",
+    "image":  "images/relicarios/09.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  11800,
+    "weeks":  1,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

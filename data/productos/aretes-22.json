@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-22",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Arete Aro Tricolor",
+    "name_en":  "Tricolor Hoop Earring",
+    "image":  "images/aretes/22.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  4800,
+    "weeks":  2,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

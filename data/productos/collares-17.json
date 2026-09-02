@@ -1,0 +1,17 @@
+{
+    "id":  "collares-17",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Corazón Cristal Morado",
+    "name_en":  "Purple Crystal Heart Necklace",
+    "image":  "images/collares/17.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  22500,
+    "weeks":  1,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

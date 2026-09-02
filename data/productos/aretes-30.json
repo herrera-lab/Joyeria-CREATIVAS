@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-30",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Perla y Piedra Verde",
+    "name_en":  "Pearl \u0026 Green Stone Earring",
+    "image":  "images/aretes/30.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  5000,
+    "weeks":  2,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

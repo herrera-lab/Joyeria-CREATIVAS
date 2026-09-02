@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-36",
+    "category":  "pulseras",
+    "subcategory_es":  "Ajustables",
+    "subcategory_en":  "Adjustable",
+    "name":  "Pulsera Perlas",
+    "name_en":  "Pearl Bracelet",
+    "image":  "images/pulseras/35.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  16000,
+    "weeks":  4,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

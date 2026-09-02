@@ -1,0 +1,17 @@
+{
+    "id":  "collares-20",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Corazón Nácar",
+    "name_en":  "Mother-of-Pearl Heart Necklace",
+    "image":  "images/collares/20.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  14500,
+    "weeks":  4,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

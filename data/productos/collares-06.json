@@ -1,0 +1,17 @@
+{
+    "id":  "collares-06",
+    "category":  "collares",
+    "subcategory_es":  "Layering",
+    "subcategory_en":  "Layering",
+    "name":  "Collar Corazón Blanco",
+    "name_en":  "White Heart Necklace",
+    "image":  "images/collares/6.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  12000,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

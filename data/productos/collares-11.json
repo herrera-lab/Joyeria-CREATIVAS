@@ -1,0 +1,17 @@
+{
+    "id":  "collares-11",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Nombre Personalizado",
+    "name_en":  "Custom Name Necklace",
+    "image":  "images/collares/11.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  15500,
+    "weeks":  3,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

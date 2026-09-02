@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-18",
+    "category":  "personalizados",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Collar Primera Comunión con Inicial",
+    "name_en":  "First Communion Necklace with Initial",
+    "image":  "images/personalizados/18.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  7500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

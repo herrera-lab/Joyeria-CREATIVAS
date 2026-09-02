@@ -1,0 +1,17 @@
+{
+    "id":  "collares-16",
+    "category":  "collares",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Collar Piedra Beige",
+    "name_en":  "Beige Stone Necklace",
+    "image":  "images/collares/16.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  14000,
+    "weeks":  4,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-13",
+    "category":  "personalizados",
+    "subcategory_es":  "Iniciales",
+    "subcategory_en":  "Initials",
+    "name":  "Llavero Mascota Personalizado",
+    "name_en":  "Custom Pet Keychain",
+    "image":  "images/personalizados/13.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  8000,
+    "weeks":  1,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

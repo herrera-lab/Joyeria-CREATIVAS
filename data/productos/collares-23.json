@@ -1,0 +1,17 @@
+{
+    "id":  "collares-23",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Corazón Cristal Ámbar",
+    "name_en":  "Amber Crystal Heart Necklace",
+    "image":  "images/collares/23.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  22500,
+    "weeks":  3,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

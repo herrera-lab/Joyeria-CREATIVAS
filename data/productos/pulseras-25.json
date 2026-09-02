@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-25",
+    "category":  "pulseras",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Set Pulsera Perlas y Corazón",
+    "name_en":  "Pearl and Heart Bracelet Set",
+    "image":  "images/pulseras/25.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  14000,
+    "weeks":  1,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

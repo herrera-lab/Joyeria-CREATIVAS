@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-07",
+    "category":  "relicarios",
+    "subcategory_es":  "Clásicos",
+    "subcategory_en":  "Classic",
+    "name":  "Set Relicario Corazón Plateado",
+    "name_en":  "Silver Heart Locket Set",
+    "image":  "images/relicarios/07.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  16500,
+    "weeks":  3,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

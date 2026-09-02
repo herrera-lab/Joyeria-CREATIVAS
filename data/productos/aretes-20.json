@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-20",
+    "category":  "aretes",
+    "subcategory_es":  "Argollas",
+    "subcategory_en":  "Hoops",
+    "name":  "Arete Gota Multicolor",
+    "name_en":  "Multicolor Teardrop Earring",
+    "image":  "images/aretes/20.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  9500,
+    "weeks":  4,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

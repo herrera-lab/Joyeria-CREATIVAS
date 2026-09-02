@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-01",
+    "category":  "mascotas",
+    "subcategory_es":  "Placas",
+    "subcategory_en":  "Tags",
+    "name":  "Placa Hueso Personalizada",
+    "name_en":  "Custom Bone Tag",
+    "image":  "images/mascotas/1 (1).webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  4500,
+    "weeks":  1,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

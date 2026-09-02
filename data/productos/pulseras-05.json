@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-05",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Pulsera Piedra Marfil con Corazón Dorado",
+    "name_en":  "Ivory Stone Bracelet with Gold Heart",
+    "image":  "images/pulseras/5.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  9500,
+    "weeks":  1,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

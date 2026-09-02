@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-15",
+    "category":  "personalizados",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Collar Mascota Conmemorativo",
+    "name_en":  "Pet Memorial Necklace",
+    "image":  "images/personalizados/15.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  6000,
+    "weeks":  3,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

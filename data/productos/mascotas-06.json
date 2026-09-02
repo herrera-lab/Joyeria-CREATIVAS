@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-06",
+    "category":  "mascotas",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Placa Hueso Huellitas Personalizada",
+    "name_en":  "Custom Paw Print Bone Tag",
+    "image":  "images/mascotas/6 (1).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6000,
+    "weeks":  2,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

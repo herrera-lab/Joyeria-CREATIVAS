@@ -1,0 +1,17 @@
+{
+    "id":  "collares-34",
+    "category":  "collares",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Collar Perla Rosa Envuelta",
+    "name_en":  "Wrapped Pink Pearl Necklace",
+    "image":  "images/collares/34.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  13000,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

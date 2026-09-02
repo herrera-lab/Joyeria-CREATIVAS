@@ -1,0 +1,17 @@
+{
+    "id":  "mascotas-03",
+    "category":  "mascotas",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Placas Hueso Frase Personalizada",
+    "name_en":  "Custom Message Bone Tags",
+    "image":  "images/mascotas/3 (1).webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  4500,
+    "weeks":  3,
+    "dimensions_es":  "Medida según tamaño de la mascota",
+    "dimensions_en":  "Size depends on the pet\u0027s size",
+    "isNew":  false,
+    "isLimited":  false
+}

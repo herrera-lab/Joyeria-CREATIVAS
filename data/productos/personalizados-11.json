@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-11",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Llavero Nombre Personalizado",
+    "name_en":  "Custom Name Keychain",
+    "image":  "images/personalizados/11.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  4500,
+    "weeks":  3,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

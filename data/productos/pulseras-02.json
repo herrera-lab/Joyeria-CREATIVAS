@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-02",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Pulsera Cuarzo Rosa con Corazón Dorado",
+    "name_en":  "Rose Quartz Bracelet with Gold Heart",
+    "image":  "images/pulseras/2.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  16000,
+    "weeks":  2,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

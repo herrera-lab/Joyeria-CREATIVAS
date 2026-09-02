@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-14",
+    "category":  "hombres",
+    "subcategory_es":  "Pulseras",
+    "subcategory_en":  "Bracelets",
+    "name":  "Pulsera Nombre Personalizado",
+    "name_en":  "Custom Name Bracelet",
+    "image":  "images/hombres/14 (2).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  5500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

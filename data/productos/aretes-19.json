@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-19",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Arete Perla Clásico",
+    "name_en":  "Classic Pearl Earring",
+    "image":  "images/aretes/19.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  2000,
+    "weeks":  3,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

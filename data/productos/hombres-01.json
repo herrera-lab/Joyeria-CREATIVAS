@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-01",
+    "category":  "hombres",
+    "subcategory_es":  "Cadenas",
+    "subcategory_en":  "Chains",
+    "name":  "Pulsera Cuero con Placa",
+    "name_en":  "Leather Bracelet with Tag",
+    "image":  "images/hombres/1 (2).webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  15000,
+    "weeks":  1,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "collares-30",
+    "category":  "collares",
+    "subcategory_es":  "Layering",
+    "subcategory_en":  "Layering",
+    "name":  "Collar Cascada Roja",
+    "name_en":  "Red Cascade Necklace",
+    "image":  "images/collares/30.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  12000,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

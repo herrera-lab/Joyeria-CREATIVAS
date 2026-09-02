@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-05",
+    "category":  "relicarios",
+    "subcategory_es":  "Grabados",
+    "subcategory_en":  "Engraved",
+    "name":  "Relicario Corazón Dorado con Flor",
+    "name_en":  "Gold Heart Locket with Flower Charm",
+    "image":  "images/relicarios/05.webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  8000,
+    "weeks":  1,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

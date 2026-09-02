@@ -1,0 +1,17 @@
+{
+    "id":  "relicarios-06",
+    "category":  "relicarios",
+    "subcategory_es":  "Para fotos",
+    "subcategory_en":  "Photo",
+    "name":  "\tLlavero Relicario Corazón para Papá",
+    "name_en":  "Heart Locket Keychain for Dad",
+    "image":  "images/relicarios/06.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  7000,
+    "weeks":  2,
+    "dimensions_es":  "Medida aproximada 1.5 a 2.5 cm de diámetro",
+    "dimensions_en":  "Approximate size 1.5 to 2.5 cm in diameter",
+    "isNew":  false,
+    "isLimited":  false
+}

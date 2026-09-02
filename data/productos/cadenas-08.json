@@ -1,0 +1,17 @@
+{
+    "id":  "cadenas-08",
+    "category":  "cadenas",
+    "subcategory_es":  "Gruesas",
+    "subcategory_en":  "Chunky",
+    "name":  "Cadena Corazón Huella",
+    "name_en":  "Heart \u0026 Paw Print Chain",
+    "image":  "images/cadenas/8 (1).webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  5000,
+    "weeks":  4,
+    "dimensions_es":  "Largo aproximado 40 a 55 cm",
+    "dimensions_en":  "Approximate length 40 to 55 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

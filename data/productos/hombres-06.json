@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-06",
+    "category":  "hombres",
+    "subcategory_es":  "Anillos",
+    "subcategory_en":  "Rings",
+    "name":  "Pulsera Ojo de Tigre",
+    "name_en":  "Tiger\u0027s Eye Bracelet",
+    "image":  "images/hombres/6 (2).webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  4500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

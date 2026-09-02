@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-02",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Llavero Frase Personalizado (precio desde, varía según personalización)",
+    "name_en":  "Custom Message Keychain (starting price, varies by customization)",
+    "image":  "images/personalizados/2.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  1500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-11",
+    "category":  "hombres",
+    "subcategory_es":  "Pulseras",
+    "subcategory_en":  "Bracelets",
+    "name":  "Llavero Personalizado",
+    "name_en":  "Custom Keychain",
+    "image":  "images/hombres/11 (2).webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  7000,
+    "weeks":  3,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

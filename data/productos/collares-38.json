@@ -1,0 +1,17 @@
+{
+    "id":  "collares-38",
+    "category":  "collares",
+    "subcategory_es":  "Choker",
+    "subcategory_en":  "Choker",
+    "name":  "Collar Perlas Rosa Grande",
+    "name_en":  "Large Pink Pearl Necklace",
+    "image":  "images/collares/38.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6000,
+    "weeks":  2,
+    "dimensions_es":  "Largo aproximado 38 a 50 cm",
+    "dimensions_en":  "Approximate length 38 to 50 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

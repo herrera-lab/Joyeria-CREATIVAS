@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-10",
+    "category":  "personalizados",
+    "subcategory_es":  "Iniciales",
+    "subcategory_en":  "Initials",
+    "name":  "Set Collar y Pulsera con Nombre",
+    "name_en":  "Necklace \u0026 Bracelet Set with Name",
+    "image":  "images/personalizados/10.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  11500,
+    "weeks":  2,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

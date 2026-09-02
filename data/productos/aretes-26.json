@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-26",
+    "category":  "aretes",
+    "subcategory_es":  "Argollas",
+    "subcategory_en":  "Hoops",
+    "name":  "Arete Estrella de Mar",
+    "name_en":  "Starfish Earring",
+    "image":  "images/aretes/26.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6500,
+    "weeks":  2,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

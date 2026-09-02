@@ -1,0 +1,17 @@
+{
+    "id":  "cadenas-15",
+    "category":  "cadenas",
+    "subcategory_es":  "Eslabón cubano",
+    "subcategory_en":  "Cuban link",
+    "name":  "Cadena Mariposa Cristal",
+    "name_en":  "Crystal Butterfly Chain",
+    "image":  "images/cadenas/15 (1).webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  6500,
+    "weeks":  3,
+    "dimensions_es":  "Largo aproximado 40 a 55 cm",
+    "dimensions_en":  "Approximate length 40 to 55 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

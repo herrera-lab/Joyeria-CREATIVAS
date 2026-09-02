@@ -1,0 +1,17 @@
+{
+    "id":  "cadenas-09",
+    "category":  "cadenas",
+    "subcategory_es":  "Eslabón cubano",
+    "subcategory_en":  "Cuban link",
+    "name":  "Cadena Mariposa Turquesa",
+    "name_en":  "Turquoise Butterfly Chain",
+    "image":  "images/cadenas/9 (1).webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  6500,
+    "weeks":  1,
+    "dimensions_es":  "Largo aproximado 40 a 55 cm",
+    "dimensions_en":  "Approximate length 40 to 55 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

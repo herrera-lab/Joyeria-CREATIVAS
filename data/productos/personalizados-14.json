@@ -1,0 +1,17 @@
+{
+    "id":  "personalizados-14",
+    "category":  "personalizados",
+    "subcategory_es":  "Nombres",
+    "subcategory_en":  "Names",
+    "name":  "Pulsera Bebé con Nombre",
+    "name_en":  "Baby Bracelet with Name",
+    "image":  "images/personalizados/14.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  6000,
+    "weeks":  2,
+    "dimensions_es":  "Medida según diseño personalizado",
+    "dimensions_en":  "Size depends on the custom design",
+    "isNew":  false,
+    "isLimited":  false
+}

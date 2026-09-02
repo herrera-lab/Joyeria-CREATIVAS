@@ -1,0 +1,17 @@
+{
+    "id":  "pulseras-14",
+    "category":  "pulseras",
+    "subcategory_es":  "Dijes",
+    "subcategory_en":  "Charms",
+    "name":  "Set Pulsera y Aretes Piedra Negra",
+    "name_en":  "Black Stone Bracelet \u0026 Earring Set",
+    "image":  "images/pulseras/14.webp",
+    "material_es":  "Acero quirúrgico",
+    "material_en":  "Surgical steel",
+    "price":  12000,
+    "weeks":  2,
+    "dimensions_es":  "Ajustable / largo aproximado 16 a 20 cm",
+    "dimensions_en":  "Adjustable / approximate length 16 to 20 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

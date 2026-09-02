@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-12",
+    "category":  "hombres",
+    "subcategory_es":  "Anillos",
+    "subcategory_en":  "Rings",
+    "name":  "Cadena Cruz Dorada",
+    "name_en":  "Gold Cross Chain",
+    "image":  "images/hombres/12 (2).webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  8500,
+    "weeks":  4,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

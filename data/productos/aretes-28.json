@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-28",
+    "category":  "aretes",
+    "subcategory_es":  "Diario",
+    "subcategory_en":  "Everyday",
+    "name":  "Arete Bola Roja",
+    "name_en":  "Red Ball Earring",
+    "image":  "images/aretes/28.webp",
+    "material_es":  "Oro 18k",
+    "material_en":  "18k gold",
+    "price":  3500,
+    "weeks":  4,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "hombres-05",
+    "category":  "hombres",
+    "subcategory_es":  "Pulseras",
+    "subcategory_en":  "Bracelets",
+    "name":  "Llavero Moto Personalizado",
+    "name_en":  "Custom Motorcycle Keychain",
+    "image":  "images/hombres/5 (2).webp",
+    "material_es":  "Plata 950",
+    "material_en":  "Sterling silver 950",
+    "price":  8000,
+    "weeks":  1,
+    "dimensions_es":  "Medida según modelo",
+    "dimensions_en":  "Size depends on model",
+    "isNew":  false,
+    "isLimited":  false
+}

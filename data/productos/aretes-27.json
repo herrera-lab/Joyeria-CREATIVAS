@@ -1,0 +1,17 @@
+{
+    "id":  "aretes-27",
+    "category":  "aretes",
+    "subcategory_es":  "Colgantes",
+    "subcategory_en":  "Drop",
+    "name":  "Arete Aro Rojo",
+    "name_en":  "Red Hoop Earring",
+    "image":  "images/aretes/27.webp",
+    "material_es":  "Chapa de oro",
+    "material_en":  "Gold plated",
+    "price":  4800,
+    "weeks":  3,
+    "dimensions_es":  "Alto aproximado 2 a 4 cm",
+    "dimensions_en":  "Approximate height 2 to 4 cm",
+    "isNew":  false,
+    "isLimited":  false
+}
