@@ -23,7 +23,7 @@ function sourcePathFor(publicPath) {
   if (!publicPath.startsWith('images/')) {
     throw new Error(`La imagen debe estar dentro de images/: ${publicPath}`);
   }
-  return join(root, publicPath.replaceAll('/', '\\'));
+  return join(root, ...publicPath.split('/'));
 }
 
 function optimizedBaseName(publicPath) {
@@ -58,7 +58,7 @@ async function optimizeImage(publicPath) {
         .rotate()
         .resize({ width, withoutEnlargement: true })
         .webp({ quality: 78, effort: 5 })
-        .toFile(join(root, variants[index].replaceAll('/', '\\')))
+        .toFile(join(root, ...variants[index].split('/')))
     )
   );
 
