@@ -2,7 +2,7 @@ import { getCategories, getFeaturedMinis } from '../features/catalog.js';
 import { t, translateDom } from '../features/i18n.js';
 import { state } from '../core/state.js';
 import { formatPrice } from '../utils/format.js';
-import { escapeHtml, qs } from '../utils/dom.js';
+import { escapeHtml, qs, responsiveImageAttrs } from '../utils/dom.js';
 import { ROUTES } from '../config/routes.js';
 import { BRAND } from '../config/constants.js';
 
@@ -15,7 +15,7 @@ function categoryRowHtml(category) {
     <div class="cat-row" data-reveal>
       <div class="cat-row-inner">
         <div class="cat-visual">
-          <img src="${category.banner}" alt="${escapeHtml(label)}" loading="lazy" decoding="async" width="800" height="600" />
+          <img ${responsiveImageAttrs(category.banner, '(min-width: 900px) 50vw, 100vw')} alt="${escapeHtml(label)}" loading="lazy" decoding="async" width="800" height="600" />
         </div>
         <div class="cat-text">
           <span class="eyebrow">${t('nav_colecciones')}</span>
@@ -27,7 +27,7 @@ function categoryRowHtml(category) {
                 const pName = state.language === 'en' ? p.name_en || p.name : p.name;
                 return `
               <a class="cat-mini" href="${ROUTES.product(p.id)}">
-                <span class="swatch"><img src="${p.image}" alt="${escapeHtml(pName)}" loading="lazy" decoding="async" width="240" height="240" /></span>
+                <span class="swatch"><img ${responsiveImageAttrs(p.image, '120px')} alt="${escapeHtml(pName)}" loading="lazy" decoding="async" width="240" height="240" /></span>
                 <span class="name">${escapeHtml(pName)}</span>
                 <span class="price">${formatPrice(p.price, state.language)}</span>
               </a>`;
@@ -43,7 +43,7 @@ function categoryRowHtml(category) {
 export function renderHome(container) {
   container.innerHTML = `
     <section class="hero">
-      <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect fill='%232e2624' width='16' height='9'/%3E%3C/svg%3E">
+      <video class="hero-video" autoplay muted loop playsinline preload="metadata" poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect fill='%232e2624' width='16' height='9'/%3E%3C/svg%3E">
         <source src="${BRAND.heroVideo}" type="video/mp4" />
         <p>${t('hero_video_fallback')}</p>
       </video>

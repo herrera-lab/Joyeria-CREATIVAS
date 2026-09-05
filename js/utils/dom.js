@@ -21,6 +21,16 @@ export function escapeHtml(value) {
     .replace(/'/g, '&#39;');
 }
 
+export function responsiveImageAttrs(src, sizes) {
+  const attrs = `src="${src}"`;
+  if (!src.includes('/optimized/') || !src.endsWith('-960.webp')) return attrs;
+
+  const srcset = [480, 960, 1440]
+    .map((width) => `${src.replace('-960.webp', `-${width}.webp`)} ${width}w`)
+    .join(', ');
+  return `${attrs} srcset="${srcset}" sizes="${sizes}"`;
+}
+
 export function setHtml(container, html) {
   container.innerHTML = html;
   return container;

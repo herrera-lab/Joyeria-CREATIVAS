@@ -1,6 +1,6 @@
 import { getCurrentRoute, onRouteChange } from './router.js';
 import { state, subscribe } from './state.js';
-import { qs, qsa, escapeHtml, showToast } from '../utils/dom.js';
+import { qs, qsa, escapeHtml, responsiveImageAttrs, showToast } from '../utils/dom.js';
 import { debounce } from '../utils/helpers.js';
 
 import { initI18n, t } from '../features/i18n.js';
@@ -240,7 +240,7 @@ function wireSearch() {
       .map(
         (p) =>
           `<a href="${ROUTES.product(p.id)}" class="search-result">
-            <img src="${p.image}" alt="" loading="lazy" decoding="async" width="64" height="64" />
+            <img ${responsiveImageAttrs(p.image, '64px')} alt="" loading="lazy" decoding="async" width="64" height="64" />
             <span>${escapeHtml(state.language === 'en' ? p.name_en || p.name : p.name)}</span>
           </a>`
       )

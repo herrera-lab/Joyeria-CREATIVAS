@@ -3,7 +3,7 @@ import { removeFromCart, setQty, getCartCount, getCartTotal } from '../features/
 import { openWhatsAppOrder } from '../features/whatsapp.js';
 import { t, translateDom } from '../features/i18n.js';
 import { formatPrice } from '../utils/format.js';
-import { escapeHtml, qs, qsa, trapFocus } from '../utils/dom.js';
+import { escapeHtml, qs, qsa, responsiveImageAttrs, trapFocus } from '../utils/dom.js';
 
 let releaseFocusTrap = () => {};
 
@@ -12,7 +12,7 @@ function itemRowHtml(item) {
   const itemName = state.language === 'en' ? item.nameEn || item.name : item.name;
   return `
     <div class="drawer-item" data-line="${item.id}|${item.variant || ''}">
-      <div class="thumb"><img src="${item.image}" alt="${escapeHtml(itemName)}" loading="lazy" decoding="async" width="120" height="120" /></div>
+      <div class="thumb"><img ${responsiveImageAttrs(item.image, '120px')} alt="${escapeHtml(itemName)}" loading="lazy" decoding="async" width="120" height="120" /></div>
       <div class="info">
         <p class="name">${escapeHtml(itemName)}${variant}</p>
         <p class="price">${formatPrice(item.price, state.language)}</p>

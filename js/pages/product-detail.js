@@ -4,7 +4,7 @@ import { addToCart } from '../features/cart.js';
 import { openCartDrawer } from './cart.js';
 import { state } from '../core/state.js';
 import { formatPrice, formatWeeks } from '../utils/format.js';
-import { escapeHtml, qs, showToast } from '../utils/dom.js';
+import { escapeHtml, qs, responsiveImageAttrs, showToast } from '../utils/dom.js';
 import { ROUTES } from '../config/routes.js';
 import { CARE_TIPS_ES, CARE_TIPS_EN, SHIPPING } from '../config/constants.js';
 
@@ -83,7 +83,7 @@ export function renderProductDetail(container, params) {
       <div class="product-detail-grid">
         <div class="product-gallery">
           <div class="product-gallery-main">
-            <img src="${product.image}" alt="${escapeHtml(productName)} — ${escapeHtml(material)}" loading="eager" decoding="async" width="900" height="900" />
+            <img ${responsiveImageAttrs(product.image, '(min-width: 900px) 50vw, 100vw')} alt="${escapeHtml(productName)} — ${escapeHtml(material)}" loading="eager" decoding="async" width="900" height="900" />
           </div>
         </div>
 

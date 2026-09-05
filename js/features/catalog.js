@@ -3,7 +3,7 @@ import { ROUTES } from '../config/routes.js';
 import { t } from './i18n.js';
 import { state } from '../core/state.js';
 import { formatPrice } from '../utils/format.js';
-import { escapeHtml } from '../utils/dom.js';
+import { escapeHtml, responsiveImageAttrs } from '../utils/dom.js';
 
 export function getCategories() {
   return CATEGORIES;
@@ -56,7 +56,7 @@ export function productCardHtml(product) {
   return `
     <article class="product-card">
       <a class="product-photo" href="${ROUTES.product(product.id)}" aria-label="${name}">
-        <img src="${product.image}" alt="${name}" loading="lazy" decoding="async" width="600" height="600" />
+        <img ${responsiveImageAttrs(product.image, '(min-width: 900px) 30vw, (min-width: 560px) 45vw, 92vw')} alt="${name}" loading="lazy" decoding="async" width="600" height="600" />
         ${badges}
       </a>
       <a class="product-name" href="${ROUTES.product(product.id)}">${name}</a>
