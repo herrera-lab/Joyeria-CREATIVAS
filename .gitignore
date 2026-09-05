@@ -29,3 +29,6 @@ docs/
 
 # Local Netlify folder
 .netlify
+
+# Imagenes generadas por scripts/build-catalog.mjs
+images/optimized/
