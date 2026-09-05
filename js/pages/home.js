@@ -43,8 +43,7 @@ function categoryRowHtml(category) {
 export function renderHome(container) {
   container.innerHTML = `
     <section class="hero">
-      <video class="hero-video" autoplay muted loop playsinline preload="metadata" poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect fill='%232e2624' width='16' height='9'/%3E%3C/svg%3E">
-        <source src="${BRAND.heroVideo}" type="video/mp4" />
+      <video class="hero-video" src="${BRAND.heroVideo}" autoplay muted loop playsinline preload="auto" poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect fill='%232e2624' width='16' height='9'/%3E%3C/svg%3E">
         <p>${t('hero_video_fallback')}</p>
       </video>
       <div class="hero-overlay"></div>
@@ -78,6 +77,12 @@ export function renderHome(container) {
       </div>
     </section>
   `;
+
+  const heroVideo = qs('.hero-video', container);
+  if (heroVideo) {
+    heroVideo.load();
+    heroVideo.play().catch(() => {});
+  }
 
   qs('#heroCta', container)?.addEventListener('click', () => {
     qs('#categories')?.scrollIntoView({ behavior: 'smooth' });
